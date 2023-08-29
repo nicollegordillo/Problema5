@@ -1,0 +1,16 @@
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.Form1.resources
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.csproj.GenerateResource.cache
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.AssemblyInfoInputs.cache
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.AssemblyInfo.cs
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.csproj.CoreCompileInputs.cache
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\bin\Debug\net6.0-windows\problema5.exe
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\bin\Debug\net6.0-windows\problema5.deps.json
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\bin\Debug\net6.0-windows\problema5.runtimeconfig.json
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\bin\Debug\net6.0-windows\problema5.dll
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\bin\Debug\net6.0-windows\problema5.pdb
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.dll
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\refint\problema5.dll
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.pdb
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\problema5.genruntimeconfig.cache
+C:\Users\wolfu\Desktop\Universidad Nicolle\problema5\problema5\obj\Debug\net6.0-windows\ref\problema5.dll
